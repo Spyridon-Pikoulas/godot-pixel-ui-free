@@ -95,6 +95,7 @@ static func slider(parent: Control, label: String, value: float) -> void:
 
 
 func _ready() -> void:
+	get_viewport().canvas_item_default_texture_filter = Viewport.DEFAULT_CANVAS_ITEM_TEXTURE_FILTER_NEAREST  # project.godot's, for a project without it
 	pixel_scale(self, ART_HEIGHT)
 	theme = kit_theme("wood")
 	_hud()
