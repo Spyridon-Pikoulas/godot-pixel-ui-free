@@ -3,6 +3,10 @@
 A pixel-art GUI skin for Godot 4.3+: colour themes as ready-made `Theme` resources, icons, bar
 fills, a cursor and a bitmap font. Every image is also a plain PNG for any other engine.
 
+**The full pack:** **[Pixel UI](https://heyheythere.itch.io/pixel-ui)** has six colour themes (stone, wood, sky, forest, royal and ember) and
+50 icons: food, bombs, elements, trophies, locks, and a full menu set with sound, music, settings,
+save and delete. Same files and names: install it over this one.
+
 ## Use it
 
 1. Copy `addons/pixel_ui/` into your project.
